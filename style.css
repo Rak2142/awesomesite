@@ -1,0 +1,13 @@
+body{
+    font-family: Roboto;
+    display: flex;
+    flex-direction: column;
+}
+.header, 
+.footer{
+    background-color: #1f2937;
+}
+.action, 
+.button{
+    background-color: #3882F6;
+}
