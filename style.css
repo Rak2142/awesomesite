@@ -52,11 +52,9 @@ img{
     height: 200px;
 }
 
-.midarea{
+.middlearea{
     display: flex;
-    flex-direction: column;
 }
-
 .button{
     color: #f9faf8;
     display: flex;
@@ -65,4 +63,9 @@ img{
     width: 90px;
     height: 35px;
     border-radius: 10px;
+}
+.infoheader{
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 900;
 }
