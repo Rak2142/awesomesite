@@ -25,13 +25,16 @@ a{
 .subtext{
     font: 18px;
     color: #f9faf8;
-    width: 250px;
+    width: 350px;
 }
 .signupall{
     display: flex;
     height: 33vh; 
     align-items: center;
     justify-content: center;
+}
+.signuptext{
+    margin-right: 50px;
 }
 ul{
     display: flex;
@@ -52,6 +55,9 @@ img{
 .midarea{
     display: flex;
     flex-direction: column;
+}
+button{
+    border-radius: 20px;
 }
 .button{
     color: #f9faf8;
