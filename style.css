@@ -79,7 +79,12 @@ img{
     align-items: center;
     text-align: center;
     width: 25vh;
+}
+.picsandtext img{
+    border-style: solid;
     border-radius: 10px;
+    border-color: #3882F6;
+    
 }
 .quote{
     background-color: #E5E7EB;
@@ -95,5 +100,6 @@ img{
 .quote p{
     display: flex;
     align-self: flex-end;
-
+    margin-top: .5em;
+    
 }
