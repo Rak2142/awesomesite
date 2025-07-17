@@ -74,4 +74,26 @@ img{
 }
 .picsandtext{
     display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 25vh;
+    border-radius: 10px;
+}
+.quote{
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    text-align: center;
+    height: 33vh;
+    justify-content: center;
+}
+.quote p{
+    display: flex;
+    align-self: flex-end;
+
 }
